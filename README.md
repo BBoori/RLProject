@@ -50,6 +50,10 @@
 
 ## 실험 결과 : PPT 파일 참조
 
-
+## 시각화위한 csv 파일
+1. RL_DQN_3000.csv
+2. RL_Double_DQN_6000.csv
+3. RL_DQN_6000.csv
+4. RL_Double_DQN_3000.csv
 
 
