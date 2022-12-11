@@ -4,6 +4,11 @@
 - a66032_rl_project.py
 - A66032_RL_project.ipynb << colab 에서 수행
 
+# 주제 
+- DQN을 활용하여 gym에서 제공하는 ‘Acrobot-v1’ 문제를 해결해 보자. 
+1. DQN과 Double DQN을 비교 분석한다. 
+2. 에피소드 수를 증가시켜 비교해본다. 
+
 # Acrobot-vi
 - https://www.gymlibrary.dev/environments/classic_control/acrobot/
 - 목표는 막대에 토크(회전력)를 적용하여 아래파트를 스윙하여 목표 높이에 도달하는 것
